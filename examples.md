@@ -277,7 +277,7 @@ $$
 
 Rounded to two decimal places: 0.77
 
-**Numerical Answer:** 0.7654 ✅
+**Numerical Answer:** 0.77 ✅
 
 ---
 
