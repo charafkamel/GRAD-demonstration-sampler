@@ -38,13 +38,14 @@ GRAD (Generative Retrieval-Aligned Demonstration Sampler) is an efficient approa
 If you find GRAD helpful for your research, please consider giving a citation:
 
 ```bibtex
-@inproceedings{
-gabouj2025grad,
-title={{GRAD}: Generative Retrieval-Aligned Demonstration Sampler for Efficient Few-Shot Reasoning},
-author={Oussama Gabouj and Kamel Charaf and Ivan Zakazov and Nicolas Baldwin and Robert West},
-booktitle={The 2025 Conference on Empirical Methods in Natural Language Processing},
-year={2025},
-url={https://openreview.net/forum?id=3gg9DY7Ci9}
+@misc{gabouj2025gradgenerativeretrievalaligneddemonstration,
+      title={GRAD: Generative Retrieval-Aligned Demonstration Sampler for Efficient Few-Shot Reasoning}, 
+      author={Oussama Gabouj and Kamel Charaf and Ivan Zakazov and Nicolas Baldwin and Robert West},
+      year={2025},
+      eprint={2510.01165},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2510.01165}, 
 }
 ```
 
