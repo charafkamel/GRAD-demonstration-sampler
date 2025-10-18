@@ -15,7 +15,7 @@
 - ❌ Database maintenance is costly.
 - ❌ Hard to find relevant documents.
 
-### ✅ GRAD Does the Heavy Lifting:
+### GRAD Does the Heavy Lifting:
 - ✅ Provides shorter demos & outputs.
 - ✅ No database / RAG needed.
 - ✅ Scales across tasks and domains.
