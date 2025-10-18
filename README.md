@@ -22,7 +22,7 @@
 
 ---
 
-## Example
+## Example (see more here: [Examples](examples.md)).
 
 GRAD (Generative Retrieval-Aligned Demonstration Sampler) is an efficient approach to few-shot reasoning that eliminates the need for expensive database construction and maintenance while providing more effective demonstration selection for large language models.
 
